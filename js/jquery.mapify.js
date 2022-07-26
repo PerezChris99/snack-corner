@@ -1,13 +1,4 @@
-/**
- * jQuery Mapify v1.0
- * http://github.com/castlegateit/jquery-mapify
- *
- * Copyright (c) 2016 Castlegate IT
- * http://www.castlegateit.co.uk/
- *
- * Released under the MIT License
- * http://www.opensource.org/licenses/MIT
- */
+
 ;(function($) {
     'use strict';
 

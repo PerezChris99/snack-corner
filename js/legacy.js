@@ -1,19 +1,5 @@
 
-/*jshint
-   asi: true,
-   unused: true,
-   boss: true,
-   loopfunc: true,
-   eqnull: true
- */
 
-
-/*!
- * Legacy browser support
- */
-
-
-// Map array support
 if ( ![].map ) {
     Array.prototype.map = function ( callback, self ) {
         var array = this, len = array.length, newArray = new Array( len )
